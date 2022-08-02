@@ -9,6 +9,7 @@ return require('packer').startup(function()
   -- use 'github/copilot.vim'
   use 'bfrg/vim-cpp-modern'
   use "nvim-lua/plenary.nvim"
+  use "wbthomason/packer.nvim"
 
   -- LSP
   use 'neovim/nvim-lspconfig'
