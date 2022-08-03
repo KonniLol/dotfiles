@@ -32,7 +32,7 @@ bindkey  "^[[3~"  delete-char
 # aliases
 alias dotfiles="/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME"
 alias qrcp="qrcp -p 8080"
-alias nv="nvim"
+alias nv="nvim ./"
 alias la="ls -lah"
 alias st="speedtest"
 

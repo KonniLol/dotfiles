@@ -1,6 +1,0 @@
-require("konnilol.plugins")
-require("konnilol.options")
-require("konnilol.keymaps")
-require("konnilol.colorscheme")
-require("konnilol.cmp")
-require("konnilol.telescope")
